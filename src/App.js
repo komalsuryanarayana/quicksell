@@ -1,11 +1,8 @@
-// import logo from './logo.svg';
-import './App.css';
-import KanbanBoards from './main.jsx';
-
+import Dashboard from "./Page/Dashboard";
 function App() {
   return (
     <div className="App">
-      <KanbanBoards/>
+      <Dashboard />
     </div>
   );
 }
